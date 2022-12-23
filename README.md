@@ -1,3 +1,17 @@
-# RewardBot
-Designed a bot that improves team cohesiveness by rewarding actions such as solving github issues, making github commits, and using positive words during conversations on Discord’s open-source chat service. Integrated bot with GitHub using webhooks and maintained user scores in PostgreSQL. Deployed the application on a remote environment using ansible. Achieved > 80% code coverage using c8 tool.
+# CSC510-20
 
+## Team Members
+Sarthak Babbar (sbabbar) <br>
+Shruti Satish Magai (smagai)<br>
+Shivani Shivaji Shinde (sshinde3)<br>
+Shubham Shubham (sshubha)<br>
+
+[DESIGN.md](DESIGN.md)
+
+[BOT.md](BOT.md)
+
+[PROCESS.md](PROCESS.md)
+
+[DEPLOY.md](DEPLOY.md)
+
+[REPORT.md](REPORT.md)
